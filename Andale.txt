@@ -1,2 +1,5 @@
-Hola estoy aquí
-Que onda wey
+#include <stdio.h>
+
+int main() {
+    printf("HEllo world");
+}
